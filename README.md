@@ -61,7 +61,8 @@ I appreciate flexible working hours and working in a friendly and professional t
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" /></a>  
 <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="25" /></a>  
 <a href="https://www.cypress.io/" target="_blank"><img style="margin: 10px" src="https://github.com/cypress-io/cypress-icons/blob/master/src/icons/icon_32x32.png" alt="Cypress" height="25" /></a>  
-<a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="25" /></a>  
+<a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="25" /></a> 
+<a href="https://marketplace.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://github.com/teslmik/teslmik/blob/main/file_type_vscode_icon_130084.png" alt="VSCode" height="25" /></a>
 </div>  
 
 ## Github Stats  
