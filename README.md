@@ -77,6 +77,4 @@ I appreciate flexible working hours and working in a friendly and professional t
 
 </div>
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=teslmik&label=Profile%20Views&color=3&pretty=false" />
-</a>
+[![](https://visitcount.itsvg.in/api?id=teslmik&label=Profile%20Views&color=3&pretty=false)](https://visitcount.itsvg.in)
