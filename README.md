@@ -52,6 +52,7 @@ I appreciate flexible working hours and working in a friendly and professional t
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" /></a> 
 <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="25" /></a>
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" /></a>  
+<a href="https://www.passportjs.org/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/P/passport-logo-16D89B2F37-seeklogo.com.png" alt="PassportJs" height="25" /></a>
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" /></a>   
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="25" /></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a> 
@@ -64,6 +65,8 @@ I appreciate flexible working hours and working in a friendly and professional t
 <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="25" /></a>  
 <a href="https://www.cypress.io/" target="_blank"><img style="margin: 10px" src="https://github.com/cypress-io/cypress-icons/blob/master/src/icons/icon_32x32.png" alt="Cypress" height="25" /></a> 
 <a href="https://marketplace.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://github.com/teslmik/teslmik/blob/main/file_type_vscode_icon_130084.png" alt="VSCode" height="25" /></a>
+<a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postmen" height="25" /></a>
+<a href="https://swagger.io/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/374111/swagger.svg" alt="Swagger" height="25" /></a>
 </div>  
 
 ## Github Stats  
