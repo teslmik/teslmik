@@ -21,8 +21,8 @@
 </div>  
   
 ### Glad to see you here!  
-I'm a Front-end/Full-stack developer specializing in creating responsive and cross-browser websites. I have worked with HTML, SCSS, JavaScript, TypeScript, React, Redux, Material UI, Styled-component, Webpack and Gulp and have experience with Git and Figma.<br>
-Backend technologies: of course Node.js, Express, Mongo DB, PostgreSQL, RestAPI. A little Nest, knex, TypeORM, Swagger, Postman, Socket.io, Docker.<br>
+I'm a Full-stack developer specializing in creating responsive and cross-browser websites. I have worked with HTML, SCSS, JavaScript, TypeScript, React, Next.js, Redux, Material UI, Styled-component, Webpack and Gulp and have experience with Git and Figma.<br>
+Backend technologies: of course Node.js, Express, MongoDB, PostgreSQL, RestAPI, Nest, knex, TypeORM, PrismaORM, Swagger, Postman, Socket.io, Docker.<br>
 I also have experience in team development.<br>
 I am also very interested in expanding my knowledge and experience in developing Next.js and Nest.js applications.<br>
 I appreciate flexible working hours and working in a friendly and professional team.  
